@@ -1,5 +1,5 @@
   <h1>Notes App, Javascript/JSON</h1>
-  <img src="https://img.shields.io/badge/Node-12.16.3-brightgreen"> <img src="https://img.shields.io/github/last-commit/mustafakbaser/Notes-App-Js-Json">
+  <img src="https://img.shields.io/badge/Node-12.16.3-brightgreen"> <img src="https://img.shields.io/github/last-commit/mustafakbaser/notes-app-js-json">
   
   <p>Notes App, Javascript/JSON</p>
   <h2>Table of Contents</h2>
@@ -14,7 +14,7 @@
   
 1. Clone this repository.
     ```
-    git clone https://github.com/mustafakbaser/Notes-App-Js-Json.git
+    git clone https://github.com/mustafakbaser/notes-app-js-json.git
     ```
 1. Install Nodejs dependencies.
     ```
